@@ -1,4 +1,5 @@
 ## Hi I'm Hyeji Lee 👋
+### 🙋🏻‍♀️ About
 > Sookmyung Women's University (Senior)</br>
 > B.S. in Information Technology Engineering (GPA: 4.29/4.5)</br>
 > Interested in **LLMs**, **NLP**, and **Backend Development**
