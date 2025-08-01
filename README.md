@@ -44,4 +44,5 @@
 </br>
 
 ### 📫 Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haejee0514@sookmyung.ac.kr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haejee0514@sookmyung.ac.kr)
+
