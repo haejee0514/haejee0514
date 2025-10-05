@@ -22,24 +22,30 @@
 ### 🏅 Activities & Achievements
 
 - 🦁 **LikeLion 13th** | Mar 2025 – Present  
-  - Backend Development 
-  - Participated in 2025 HERETHON (Jul 2025)
+  - Backend Development
+  - Finalist at **LIKELION UNIV. 13th Hackathon** (Aug 2025) — Top 12 / 247 teams
+    - Top 1% in AI preliminary round
+  - Participated in **2025 HERETHON** (Jul 2025)
 
 - 👩‍💻 **SOLUX** | Mar 2024 – Feb 2025  
   - Frontend, Backend Development 
-  - 3rd Place, Project Excellence Award (DothG, 2024)
+  - 🥉 3rd Place, Project Excellence Award (DothG, 2024)
+ 
+- 🏆 **어흥콘** | Sep 27, 2025  
+  - 🥇 Grand Prize (GoruGoru, 2025)
 </br>
 
 ### 🔥 Projects
 
 |    Project          | Duration                 | Role | Tech stack | Description|
 |:----------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-| Talktitude      | 2025. 03 - Present              |Backend Developer|  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">   |AI-powered support service for call center agents |
+| GoruGoru      | 2025. 07 - 2025.09              |Backend Developer|  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">   |Multilingual local market guide with OCR-based menu parsing, allergy detection (heuristics + GPT), and course recommendations (RAG + GPT) |
+| Talktitude      | 2025. 03 - 2025.10              |Backend Developer|  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">   |Real-time customer support platform using WebSocket chat with polite rephrasing and reply recommendations (RAG + LLM) |
 | Dearbebe           | 2025. 06 - 2025. 07       | Backend Developer| <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> |Django-based baby product sharing & bartering platform |
 | ResuMate      | 2025. 05 - 2025. 06             | AI Developer| <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">|AI resume assistant with RAG & GPT |
 | NeuroCanvas           | 2024. 10 - 2024. 12     | Frontend Developer|  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> |EEG-based generative art web app |
 | DothG      | 2024. 09 - 2025. 02              |Backend Developer|  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">   |Gamified eco-activity tracking app|
-| MidPoint | 2024. 03 - 2024. 08 | Frontend Developer|  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> | Purpose-based meeting point recommendation app |
+| MIDPOINT | 2024. 03 - 2024. 08 | Frontend Developer|  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> | Purpose-based meeting point recommendation app |
 
 </br>
 
