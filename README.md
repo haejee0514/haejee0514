@@ -22,7 +22,7 @@
 
 ### 🏅 Activities & Achievements
 
-- 🦁 **LikeLion 13th** | Mar 2025 – Present  
+- 🦁 **LikeLion 13th** | Mar 2025 – Dec 2025  
   - Backend Development
   - **Finalist** - *2025 Line 4THON Hackathon (Nov 2025)*
   - **🥇 Grand Prize** - *2025 EoheungCon Hackathon (Sep 2025)*
